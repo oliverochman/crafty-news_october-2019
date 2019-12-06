@@ -21,4 +21,4 @@ Feature: User can create articles
     And I should see "Buy your gifts now!"
 
   Scenario: Visitor can not create article [Sad path]
-    Then I should not see "New article" 
+    Then I should not see "New Article" 
