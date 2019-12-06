@@ -12,6 +12,8 @@ gem 'rails', '~> 6.0.1'
 gem 'sass-rails', '>= 6'
 gem 'turbolinks', '~> 5'
 gem 'webpacker', '~> 4.0'
+gem 'devise'
+  
 
 group :development, :test do
   gem 'coveralls', require: false
